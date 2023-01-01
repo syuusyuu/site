@@ -1,2 +1,0 @@
-# syuusyuu.github.io
-site
